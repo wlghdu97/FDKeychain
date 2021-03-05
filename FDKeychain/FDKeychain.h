@@ -1,5 +1,5 @@
-@import Foundation;
 
+#include <Foundation/Foundation.h>
 
 #pragma mark - Constants
 
